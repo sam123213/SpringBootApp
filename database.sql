@@ -1,4 +1,4 @@
-create database Springapp;
+create database Springbootapp;
 
 use Springapp;
 
